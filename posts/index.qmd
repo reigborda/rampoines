@@ -1,5 +1,5 @@
 ---
-title: "Entrades"
+title: "blog"
 listing:
   contents: .
   type: default
@@ -7,4 +7,3 @@ listing:
   fields: [title, date]
 ---
 
-Aquí hi ha tots els pensaments del Quadern.
