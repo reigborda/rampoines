@@ -1,0 +1,10 @@
+---
+title: "Entrades"
+listing:
+  contents: .
+  type: default
+  sort: "date desc"
+  fields: [title, date]
+---
+
+Aquí hi ha tots els pensaments del Quadern.
