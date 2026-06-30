@@ -27,7 +27,7 @@ jobs:
         run: Rscript -e "install.packages('renv', repos='https://packagemanager.posit.co/cran/latest'); renv::restore(prompt = FALSE)"
 
       - name: Setup Quarto
-        uses: quarto-dev/actions/setup@v2
+        uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render Quarto site
         run: quarto render .
