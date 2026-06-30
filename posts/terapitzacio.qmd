@@ -1,6 +1,7 @@
 ---
 title: "Biografies terapitzades"
 date: 2026-06-30
+description: "Aquí ve la descripció (prova)"
 ---
 
 Aquest és el primer pensament del Quadern.
