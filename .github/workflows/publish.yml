@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      RENV_CONFIG_REPOS_OVERRIDE: https://cloud.r-project.org
+      RENV_CONFIG_REPOS_OVERRIDE: https://packagemanager.rstudio.com/all/__linux__/jammy/latest
 
     steps:
       - name: Checkout repository
