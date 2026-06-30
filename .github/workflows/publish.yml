@@ -14,11 +14,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Use binary packages (CRAN)
+      - name: Restore renv
+        shell: Rscript {0}
         run: |
           options(repos = c(CRAN = "https://packagemanager.posit.co/cran/latest"))
-          renv::restore(prompt = FALSE, type = "binary")
-        shell: Rscript {0}
+          renv::restore(prompt = FALSE)
   
       - name: Checkout repository
         uses: actions/checkout@v4
