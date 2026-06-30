@@ -20,3 +20,7 @@ format:
     theme: minty
     toc: true
     math: false
+    
+execute: 
+  engine: knitr
+  python: false
