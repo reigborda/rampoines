@@ -208,3 +208,28 @@ a:hover {
 .quarto-listing-filter {
   font-family: Georgia, serif;
 }
+
+
+/* movil */
+
+/* Ajustos per a mòbil */
+@media (max-width: 700px) {
+
+  .card-text h3 {
+    font-size: 1.8rem;
+  }
+
+  .card-text {
+    font-size: 0.9rem;
+  }
+
+  .garden-card {
+    padding: 1rem;
+  }
+
+  .card-img img {
+    width: 56px;
+    height: 56px;
+  }
+
+}
