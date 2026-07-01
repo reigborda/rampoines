@@ -1,6 +1,9 @@
 [
   {
     "listing": "/posts/index_blog.html",
-    "items": []
+    "items": [
+      "/posts/documentacio.html",
+      "/posts/terapitzacio.html"
+    ]
   }
 ]

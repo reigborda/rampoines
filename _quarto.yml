@@ -24,7 +24,15 @@ format:
     anchor-sections: false
     math: false
     css: styles.css
-    
+
+language:
+  en:
+    search:
+      placeholder: "Cerca"
+    listing:
+      filter: "Filtrar"
+      all: "Tot"
+      
 execute: 
   engine: knitr
   python: false

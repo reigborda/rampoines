@@ -1,10 +1,10 @@
 ---
-title: "Biografies terapitzades"
-date: 2026-06-30
+title: "Documentació"
+date: 2026-07-01
 description: "No ho he passat a l'ordinador però ja tinc el text a la llibreta (calma)"
 categories:
   - pensament
-  - psicologia
+  - reviews
 ---
 
-Prova 1
+Prova 2

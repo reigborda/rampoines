@@ -38,26 +38,29 @@ A principis del 2026, Albert Lloreta escrivia un [article](https://culturadigita
 
 3. La internet que substitueix la vida.
 
-La primera és reveladora i sublim, la gran invenció de la primera internet van ser els enllaços, que permetien anar saltant d'informació en informació i enfonsar-nos en coneixement. Erem innocents i encara ens faltava aprendre el poder que teníem.
+La primera és reveladora i sublim, la gran invenció de la primera internet van ser els enllaços, que permetien anar saltant d'informació en informació i enfonsar-nos en coneixement.
 
-La segona, comença amb l'aparició de Facebook. Ja l'important no era explorar, sinó crear una identitat digital que ens representés. Aquesta fase va tenir una època comunitària on es van coordinar revoltes com la Primavera Àrab (amb la seva irradiació a l'estat espanyol: el 15M). Però a poc a poc, l'invent del "m'agrada" va anar agafant força i ens vam tornar esclaus dels likes.
+La segona, comença amb l'aparició de Facebook. Ja l'important no era explorar, sinó crear una identitat digital que ens representés. Aquesta fase va tenir una època comunitària tenint com a punt àlgid la coordinació de revoltes com la Primavera Àrab (amb la seva irradiació a l'estat espanyol: el 15M). Però a poc a poc, l'invent del "m'agrada" va anar agafant força i ens vam tornar esclaus dels likes.
 
-L'última és l'actual, la internet del feed algorísmic. En aquesta fase, les plataformes passen a ser els intermediaris de la realitat i un algorisme decideix què és important i què no, de manera individual. Aquesta internet ens absorbeix en scrolls infinits, continguts buits amb finalitats empresarials.
+L'última és l'actual, la internet del feed algorísmic. En aquesta fase, les plataformes passen a ser els intermediaris de la realitat i un algorisme decideix què és important i què no, de manera individual. Aquesta internet ens absorbeix en scrolls infinits i continguts buits amb finalitats empresarials.
 
 Davant aquest declivi, s'originen com a alternativa els jardins digitals. La primera vegada que en vaig sentir a parlar, va ser pel vídeo de l'Alba Lafarga ["Contra el algoritmo: cultivar jardines digitales en vez de likes"](https://www.youtube.com/watch?v=CXmagtfnabc) on explica que els jardins digitals són espais personals i en constant transformació, on cadascú pot expressar i compartir els seus interessos i coneixements de forma oberta, pausada i reflexiva.
 
-L'objectiu és obrir un espai en l'àmbit digital que ens permeti veure'ns des d'un lloc més pausat, sense la mirada atenta dels algorismes productivistes. És una voluntat de rescatar una internet cada vegada més morta i buida.
+L'objectiu dels jardins és obrir un espai en l'àmbit digital que ens permeti veure'ns des d'un lloc més pausat, sense la mirada atenta dels algorismes productivistes. És una voluntat de rescatar una internet cada vegada més morta i buida, per recuperar l'agència sobre la xarxa.
 
 &nbsp;
 
 ### El meu jardí digital
 
-Si, he fet jo aquests dibuixos.
+Sí, he fet jo aquests dibuixos
 
 ::: {.grid}
 
 ::: {.g-col-6}
+
 ::: {.garden-card}
+
+<a href="butlleti.qmd" class="card-link">
 
 <div class="card-content">
 
@@ -67,72 +70,99 @@ Si, he fet jo aquests dibuixos.
 
 <div class="card-text">
 
-### [Butlletí](butlleti.qmd)
+### Butlletí  
 Resum de les novetats
 
 </div>
+
 </div>
 
+</a>
+
 :::
+
 :::
 
 ::: {.g-col-6}
+
 ::: {.garden-card}
+
+<a href="posts/index_blog.qmd" class="card-link">
 
 <div class="card-content">
 
 <div class="card-img">
 ![](images/card_blog.png)
 </div>
+
 <div class="card-text">
 
-### [Blog](posts/index_blog.qmd)
+### Blog  
 Pensaments i opinions diverses
 
 </div>
+
 </div>
 
+</a>
+
 :::
+
 :::
 
 ::: {.g-col-6}
+
 ::: {.garden-card}
+
+<a href="projectes.qmd" class="card-link">
 
 <div class="card-content">
 
 <div class="card-img">
 ![](images/card_projectes.png)
 </div>
+
 <div class="card-text">
 
-### [Projectes](projectes.qmd)
+### Projectes  
 Petites investigacions estadístiques
 
 </div>
+
 </div>
+
+</a>
+
 :::
+
 :::
 
 ::: {.g-col-6}
+
 ::: {.garden-card}
+
+<a href="apunts.qmd" class="card-link">
 
 <div class="card-content">
 
 <div class="card-img">
 ![](images/card_apunts.png)
 </div>
+
 <div class="card-text">
 
-### [Apunts](apunts.qmd) 
+### Apunts  
 Notes no seqüencials i sense polir
 
 </div>
+
 </div>
+
+</a>
+
 :::
+
 :::
 
 :::
 
-## Com rebre les novetats de la pàgina?
-
-en construcció

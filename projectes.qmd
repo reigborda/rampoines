@@ -2,4 +2,4 @@
 page-layout: full
 ---
 
-en construcció
+S'està preparant un projecte sobre la climatització a les aules catalanes.

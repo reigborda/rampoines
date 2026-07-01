@@ -1,8 +1,9 @@
 ---
-title: "blog"
+title: "Blog"
 listing:
+  contents: .
+  sort: desc
   type: default
-  contents: posts
-  sort: "date desc"
-  fields: [title, date, description]
+  categories: true
+  filter-ui: true
 ---

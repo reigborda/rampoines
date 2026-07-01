@@ -2,4 +2,6 @@
 page-layout: full
 ---
 
-en construcció
+        
+<div class="alert alert-dismissible alert-danger">   <button type="button" class="btn-close" data-bs-dismiss="alert"></button>   <strong>Ves per on!</strong> si no he escrit ni una trista entrada, no hi poden haver novetats. </div>
+
