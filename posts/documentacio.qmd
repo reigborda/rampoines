@@ -5,6 +5,7 @@ description: "No ho he passat a l'ordinador però ja tinc el text a la llibreta 
 categories:
   - pensament
   - reviews
+comments: true
 ---
 
 Prova 2
