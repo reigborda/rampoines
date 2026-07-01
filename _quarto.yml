@@ -33,18 +33,6 @@ language:
       filter: "Filtrar"
       all: "Tot"
 
-comments:
-  giscus:
-    repo: reigborda/rampoines
-    repo-id: R_kgDOTJ7a8w
-    category: General
-    category-id: DIC_kwDOTJ7a884DAUNP
-    mapping: pathname
-    reactions-enabled: true
-    input-position: bottom
-    theme: light
-    loading: lazy
-
 execute: 
   engine: knitr
   python: false

@@ -5,7 +5,17 @@ description: "No ho he passat a l'ordinador però ja tinc el text a la llibreta 
 categories:
   - pensament
   - reviews
-comments: true
+comments:
+  giscus:
+    repo: reigborda/rampoines
+    repo-id: R_kgDOTJ7a8w
+    category: General
+    category-id: DIC_kwDOTJ7a884DAUNP
+    mapping: pathname
+    reactions-enabled: true
+    input-position: bottom
+    theme: light
+    loading: lazy
 ---
 
 Prova 2
