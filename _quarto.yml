@@ -6,20 +6,24 @@ website:
 
   navbar:
     left:
-      - href: index.qmd
-        text: Inici
+      - href: butlleti.qmd
+        text: Butlletí
 
-      - href: posts
-        text: Entrades
+      - href: posts/index_blog.qmd
+        text: Blog
 
-      - href: about.qmd
-        text: Sobre mi
+      - href: projectes.qmd
+        text: Projectes
+
+      - href: apunts.qmd
+        text: Apunts
 
 format:
   html:
     theme: minty
-    toc: true
+    anchor-sections: false
     math: false
+    css: styles.css
     
 execute: 
   engine: knitr
