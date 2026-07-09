@@ -1,9 +1,6 @@
 ---
-date: 2026-07-09
-description: Això arrenca!
+title: Això arrenca!
 ---
-
-### 9 de juliol del 2026
 
 Hola a tothom!
 
