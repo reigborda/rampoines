@@ -8,5 +8,4 @@ listing:
 
   feed:
     type: full
-
 ---

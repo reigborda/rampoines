@@ -4,6 +4,7 @@ project:
 website:
   title: "rampoines"
   site-url: https://reigborda.github.io/rampoines
+  description: "Jardí digital ple de rampoines"
 
   navbar:
     left:
