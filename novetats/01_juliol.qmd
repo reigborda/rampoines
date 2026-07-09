@@ -1,0 +1,12 @@
+---
+date: 2026-07-09
+description: Això arrenca!
+---
+
+### 9 de juliol del 2026
+
+Hola a tothom!
+
+Ja he acabat l'estructura de la pàgina web i estic treballant en la publicació de dues notes inicials.
+Estic força contenta amb el concepte de tornar a *navegar* per internet d'hiperenllaç en hiperenllaç.
+Ja està disponible l'enllaç d'RSS des del qual podràs seguir les novetats d'aquesta pàgina web. Prometo no bombardejar amb notícies :P

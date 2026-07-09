@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "notes"
 listing:
   contents: .
   sort: desc

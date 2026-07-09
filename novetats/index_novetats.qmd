@@ -1,0 +1,12 @@
+---
+title: "novetats"
+
+listing:
+  contents: .
+  sort: date desc
+  type: default
+
+  feed:
+    type: full
+
+---

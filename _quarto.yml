@@ -3,20 +3,21 @@ project:
 
 website:
   title: "rampoines"
+  site-url: https://reigborda.github.io/rampoines
 
   navbar:
     left:
-      - href: butlleti.qmd
-        text: Butlletí
+      - href: novetats/index_novetats.qmd
+        text: novetats
 
-      - href: posts/index_blog.qmd
-        text: Blog
+      - href: posts/00_index_notes.qmd
+        text: notes
 
       - href: projectes.qmd
-        text: Projectes
+        text: projectes
 
-      - href: apunts.qmd
-        text: Apunts
+      - href: sobre_aixo.qmd
+        text: sobre això
 
 format:
   html:
@@ -25,13 +26,7 @@ format:
     math: false
     css: styles.css
 
-language:
-  en:
-    search:
-      placeholder: "Cerca"
-    listing:
-      filter: "Filtrar"
-      all: "Tot"
+lang: ca
 
 execute: 
   engine: knitr

@@ -1,58 +1,58 @@
 [
   {
-    "objectID": "projectes.html",
-    "href": "projectes.html",
-    "title": "rampoines",
+    "objectID": "sobre_aixo.html",
+    "href": "sobre_aixo.html",
+    "title": "salutacions! :)",
     "section": "",
-    "text": "S’està preparant un projecte sobre la climatització a les aules catalanes."
+    "text": "Hola! He fet aquesta petita introducció al projecte per explicar-vos d’on va sorgir la idea, de què es tracta i les eines que he utilitzat per elaborar-lo.\n\nLa teoria dels tres internets\nA principis del 2026, Albert Lloreta escrivia un article al blog Cultura Digital sobre la teoria dels tres internets que, en resum, explica que hi ha tres fases històriques de la internet:\n\nLa internet que amplia la vida.\nLa internet que copia la vida.\nLa internet que substitueix la vida.\n\nCada fase es caracteritza per una invenció. La primera, els hiperenllaços: camins que permetien anar saltant d’informació en informació mitjançant una xarxa profunda de coneixement.\nLa segona, comença amb l’aparició de Facebook. L’exploració va passar a segon pla, donant lloc a la creació d’una identitat digital que ens representés com a centre. Aquesta fase va tenir les seves llums i les seves ombres. Per una banda, ens permetia coordinar-nos comunitàriament, com va ser amb les revoltes de la Primavera Àrab (amb la seva irradiació a l’estat espanyol: el 15M). Per l’altra banda, el concepte del “m’agrada” va anar agafant força i l’important ja no era representar-nos sinó la retroacció que rebíem [estic intentant abandonar els anglicismes com “feedback” lol].\nL’última és l’actual, la internet del fil de continguts algorísmic. En aquesta fase, les plataformes passen a ser els intermediaris de la realitat i un algorisme decideix què és important i què no, de manera individual. Aquesta internet ens absorbeix en desplaçant-nos infinitament per continguts buits i amb finalitats empresarials.\n\n\nEl concepte del jardí digital\nConcordo bastant en les fases de la internet proposades per Albert Lloreta, cosa que em va fer estar pensant durant força temps sobre com participar de la xarxa sense acabar enganxada a aplicacions buides i de grans corporacions. Realment crec que limitar-nos a voler tornar a la primera internet seria esborrar l’aprenentatge d’aquests darrers anys. A més, no penso que potenciar una individualitat, com hem fet últimament, hagi de ser per si mateix negatiu, ideal o dissociatiu. De fet, penso que pot ser expansiu i enriquidor a escala col·lectiva. És en aquesta cerca que descobreixo el concepte de jardins digitals.\nLa primera vegada que en vaig sentir a parlar, va ser pel vídeo de l’Alba Lafarga “Contra el algoritmo: cultivar jardines digitales en vez de likes” on introdueix els jardins digitals com a espais personals i en constant transformació, on cadascú pot expressar i compartir els seus interessos i coneixements de forma oberta, pausada i reflexiva.\nAquesta alternativa construeix les seves bases en la metàfora del jardí. Un jardí és un conjunt de flora no natural, més o menys pensada, i generalment composta de diferents espècies. Tenir un jardí és un procés de constants accions. La idea del jardí digital és plantar diferents idees, assajos, notes, fotos, sense importar massa ni la cronologia ni el completisme. Són espais en transformació i adaptació permanent. Si són públics, conviden al lector/interlocutor a gaudir tranquil·lament, sense linealitats ni expectatives.\nRecentment [avui] he descobert el seu jardí, i quina fantasia i referent! a part de ser increïblement més bonic que aquest, està en procés de desenvolupar un concepte molt interessant de jardí digital que, sens dubte seguiré fervorosament. Potser obro una zona a la web per anar posant altres projectes i jardins a visitar.\n\n\nAmb quines eines he creat aquest jardí?\nPer acabar aquesta entrada, volia compartir com he creat aquesta web tècnicament, per si algú més es vol animar. La meva principal preocupació era que volia que fos compatible amb certs fitxers d’R, ja que m’agradaria poder anar penjant els meus projectes de dades.\n\nQuarto: és el sistema de codi obert amb el qual he creat la web. Suporta arxius d’R, Python i altres sense cap problema. De fet, estic creant aquesta pàgina directament des de RStudio. Això si, cal tenir nocions de programació.\nGithub Pages: és el servei d’allotjament web que he triat. Gràcies a això també puc tenir activats els comentaris. No hi entenc massa, però està molt estès entre programadors, així que suposo que és dels millors. Contres: és de Microsoft."
   },
   {
-    "objectID": "posts/index_blog.html",
-    "href": "posts/index_blog.html",
-    "title": "Blog",
+    "objectID": "posts/00_index_notes.html",
+    "href": "posts/00_index_notes.html",
+    "title": "notes",
     "section": "",
-    "text": "Documentació\n\n\n\n\n\n\n\npensament\n\n\nreviews\n\n\n\n\nNo ho he passat a l’ordinador però ja tinc el text a la llibreta (calma)\n\n\n\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n  \n\n\n\n\nBiografies terapitzades\n\n\n\n\n\n\n\npensament\n\n\npsicologia\n\n\n\n\nNo ho he passat a l’ordinador però ja tinc el text a la llibreta (calma)\n\n\n\n\n\n\nJun 30, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
+  },
+  {
+    "objectID": "novetats/01_juliol.html",
+    "href": "novetats/01_juliol.html",
+    "title": "rampoines",
+    "section": "",
+    "text": "9 de juliol del 2026\nHola a tothom!\nJa he acabat l’estructura de la pàgina web i estic treballant en la publicació de dues notes inicials. Estic força contenta amb el concepte de tornar a navegar per internet d’hiperenllaç en hiperenllaç. Ja està disponible l’enllaç d’RSS des del qual podràs seguir les novetats d’aquesta pàgina web. Prometo no bombardejar amb notícies :P"
+  },
+  {
+    "objectID": "en proces blog/terapitzacio.html",
+    "href": "en proces blog/terapitzacio.html",
+    "title": "biografies terapitzades",
+    "section": "",
+    "text": "Aquesta entrada conté les següents parts:\n\nEl relat autobiogràfic\nLa terapització i l’autoconsciència\nNarcisisme victimista\nSalut identitària\n\n\n\n\n\nAdvertència Quan parlo de psicologia és de manera científica. Les pseudociències ni les discuteixo, són estafes i posen en perill la salut i la vida de les persones.\n\n\n1. El relat autobiogràfic\nQuan comences un procés terapèutic, generalment en la fase inicial de la intervenció, crees un relat autobiogràfic per contextualitzar el malestar o la problemàtica actual en la “línia de vida” [concepte utilitzat en psicologia]. La hipòtesi amb la que treballaré avui és que aquest relat és problemàtic, sobretot si no es pren com a eina puntual sinó com a explicació vital real.\nLa vivència humana és tan complexa com rica, no té una línia. És cert que la nostra concepció del temps és lineal, però passen tantes coses alhora en les nostres vides, que des del moment en què defineixes un eix narratiu sobre el passat, estàs manipulant aquesta vivència establint un ordre de prioritats. Passen tantes coses que unes les has de descartar sobre altres que ressaltes. I quin és el model del relat psicològic de la línia de vida? Es presenta com a precursor del problema un fil de dolor des del que explicar la pròpia història, incidint en les experiències negatives, confrontatives, violentes i contradictòries.\nI no nego que poder buscar les causes biogràfiques d’un problema de salut mental pugui ser eficient i eficaç. El problema rau en que el pacient es cregui que això és una explicació de la seva vida i que, per tant, condicioni la seva manera d’actuar i pensar en l’actualitat i en el futur.\n\n\n2. La terapització i l’autoconsciència\n\n\n3. Narcisisme victimista\n\n“- Te la mires amb orgull, la teva ferida? Et fa sentir tràgic i important?\n- No ho sé.\n- Pensa-hi. Potser estàs actuant en un teatre grandiós en què l’únic espectador ets tu.”\n \nA l’est de l’Edèn - John Steinbeck\n\n\n\n4. Salut identitària\nEn què et fixes quan relates la teva vida? La terapització constant i l’autoconsciència solen presentar un fil de dolor des del que explicar la teva història, incidint en la part negativa, confrontativa i contradictòria. Em nego a relatar-me des d’un discurs del dolor, de la lluita i la superació. “Guau! Ets una supervivent!” Com tots, no? si no sobrevivim, morim. D’això tracta la vida."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "rampoina",
     "section": "",
-    "text": "1 1 f. [LC] Cosa d’escàs valor, inservible. No tens cap eina que valgui res: tot són rampoines. No tinc res de bo, ja no em queden sinó rampoines.\n1 2 f. [LC] [AGA] Brots d’una planta que li són perjudicials i convé treure-li.\n2 f. [LC] Gent baixa, menyspreable.\nHola!\nSoc la Reig i aquest és el meu jardí digital.\nUn petit espai personal, als marges de la internet corporativa, per reflexionar i intercanviar idees sense cap afany productivista ni completista: per gaudi i prou.\nBenvinguts. Sentiu-vos lliures de xafardejar tot el que vulgueu :)"
+    "text": "Hola!\nSoc la Reig i aquest és el meu jardí digital.\nUn petit espai personal, als marges de la internet corporativa, per reflexionar i intercanviar idees sense cap afany productivista ni completista: per gaudi i prou.\nBenvinguts. Sentiu-vos lliures de xafardejar tot el que vulgueu :)"
   },
   {
-    "objectID": "index.html#breu-passeig-pel-jardí",
-    "href": "index.html#breu-passeig-pel-jardí",
+    "objectID": "index.html#collabora",
+    "href": "index.html#collabora",
     "title": "rampoina",
-    "section": "Breu passeig pel jardí",
-    "text": "Breu passeig pel jardí\n\nUn jardí digital?\nA principis del 2026, Albert Lloreta escrivia un article al blog Cultura Digital sobre la teoria dels tres internets que, en resum, explica que hi ha tres fases històriques de la internet:\n\nLa internet que amplia la vida.\nLa internet que copia la vida.\nLa internet que substitueix la vida.\n\nLa primera és reveladora i sublim, la gran invenció de la primera internet van ser els enllaços, que permetien anar saltant d’informació en informació i enfonsar-nos en coneixement.\nLa segona, comença amb l’aparició de Facebook. Ja l’important no era explorar, sinó crear una identitat digital que ens representés. Aquesta fase va tenir una època comunitària tenint com a punt àlgid la coordinació de revoltes com la Primavera Àrab (amb la seva irradiació a l’estat espanyol: el 15M). Però a poc a poc, l’invent del “m’agrada” va anar agafant força i ens vam tornar esclaus dels likes.\nL’última és l’actual, la internet del feed algorísmic. En aquesta fase, les plataformes passen a ser els intermediaris de la realitat i un algorisme decideix què és important i què no, de manera individual. Aquesta internet ens absorbeix en scrolls infinits i continguts buits amb finalitats empresarials.\nDavant aquest declivi, s’originen com a alternativa els jardins digitals. La primera vegada que en vaig sentir a parlar, va ser pel vídeo de l’Alba Lafarga “Contra el algoritmo: cultivar jardines digitales en vez de likes” on explica que els jardins digitals són espais personals i en constant transformació, on cadascú pot expressar i compartir els seus interessos i coneixements de forma oberta, pausada i reflexiva.\nL’objectiu dels jardins és obrir un espai en l’àmbit digital que ens permeti veure’ns des d’un lloc més pausat, sense la mirada atenta dels algorismes productivistes. És una voluntat de rescatar una internet cada vegada més morta i buida, per recuperar l’agència sobre la xarxa.\n \n\n\nEl meu jardí digital\nSí, he fet jo aquests dibuixos\n\n\n\n\n\n\n\n\n\nButlletí\nResum de les novetats\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog\nPensaments i opinions diverses\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjectes\nPetites investigacions estadístiques\n\n\n\n\n\n\n\n\n\n\n\n\n\nApunts\nNotes no seqüencials i sense polir"
+    "section": "Col·labora!",
+    "text": "Col·labora!\nHe creat un canal de RSS per si voleu seguir les novetats, tot i que sempre pots passar per aquí i entrar a la pestanya de novetats.\nSi vols, pots comentar les entrades del blog. Per fer-ho, necessites tenir un compte de Github. Si no en tens, crear-lo és gratuït i molt ràpid."
   },
   {
-    "objectID": "apunts.html",
-    "href": "apunts.html",
+    "objectID": "novetats/index_novetats.html",
+    "href": "novetats/index_novetats.html",
+    "title": "novetats",
+    "section": "",
+    "text": "Això arrenca!\n\n\n\n\n\n\n9 de jul. 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projectes.html",
+    "href": "projectes.html",
     "title": "rampoines",
     "section": "",
-    "text": "Tens sort que encara no he penjat els apunts de Wittgenstein"
-  },
-  {
-    "objectID": "butlleti.html",
-    "href": "butlleti.html",
-    "title": "rampoines",
-    "section": "",
-    "text": "Si no he escrit ni una trista entrada, no hi poden haver novetats :("
-  },
-  {
-    "objectID": "posts/documentacio.html",
-    "href": "posts/documentacio.html",
-    "title": "Documentació",
-    "section": "",
-    "text": "Prova 2"
-  },
-  {
-    "objectID": "posts/terapitzacio.html",
-    "href": "posts/terapitzacio.html",
-    "title": "Biografies terapitzades",
-    "section": "",
-    "text": "Prova 1"
+    "text": "S’està preparant un projecte sobre la climatització a les aules catalanes."
   }
 ]

@@ -1,9 +1,12 @@
 [
   {
-    "listing": "/posts/index_blog.html",
+    "listing": "/posts/00_index_notes.html",
+    "items": []
+  },
+  {
+    "listing": "/novetats/index_novetats.html",
     "items": [
-      "/posts/documentacio.html",
-      "/posts/terapitzacio.html"
+      "/novetats/01_juliol.html"
     ]
   }
 ]

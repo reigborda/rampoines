@@ -1,0 +1,52 @@
+---
+title: "salutacions! :)"
+comments:
+  giscus:
+    repo: reigborda/rampoines
+    repo-id: R_kgDOTJ7a8w
+    category: General
+    category-id: DIC_kwDOTJ7a884DAUNP
+    mapping: pathname
+    reactions-enabled: true
+    input-position: bottom
+    theme: light
+    loading: lazy
+---
+
+------------------------------------------------------------------------
+
+Hola! He fet aquesta petita introducció al projecte per explicar-vos d'on va sorgir la idea, de què es tracta i les eines que he utilitzat per elaborar-lo.
+
+### La teoria dels tres internets
+
+A principis del 2026, Albert Lloreta escrivia un [article](https://culturadigital.blog.gencat.cat/teoria-tres-internets/) al blog Cultura Digital sobre la teoria dels tres internets que, en resum, explica que hi ha tres fases històriques de la internet:
+
+1.  La internet que amplia la vida.
+
+2.  La internet que copia la vida.
+
+3.  La internet que substitueix la vida.
+
+Cada fase es caracteritza per una invenció. La primera, els hiperenllaços: camins que permetien anar saltant d'informació en informació mitjançant una xarxa profunda de coneixement.
+
+La segona, comença amb l'aparició de Facebook. L'exploració va passar a segon pla, donant lloc a la creació d'una identitat digital que ens representés com a centre. Aquesta fase va tenir les seves llums i les seves ombres. Per una banda, ens permetia coordinar-nos comunitàriament, com va ser amb les revoltes de la Primavera Àrab (amb la seva irradiació a l'estat espanyol: el 15M). Per l'altra banda, el concepte del "m'agrada" va anar agafant força i l'important ja no era representar-nos sinó la retroacció que rebíem \[*estic intentant abandonar els anglicismes com "feedback" lol*\].
+
+L'última és l'actual, la internet del fil de continguts algorísmic. En aquesta fase, les plataformes passen a ser els intermediaris de la realitat i un algorisme decideix què és important i què no, de manera individual. Aquesta internet ens absorbeix en desplaçant-nos infinitament per continguts buits i amb finalitats empresarials.
+
+### El concepte del jardí digital
+
+Concordo bastant en les fases de la internet proposades per Albert Lloreta, cosa que em va fer estar pensant durant força temps sobre com participar de la xarxa sense acabar enganxada a aplicacions buides i de grans corporacions. Realment crec que limitar-nos a voler tornar a la primera internet seria esborrar l'aprenentatge d'aquests darrers anys. A més, no penso que potenciar una individualitat, com hem fet últimament, hagi de ser per si mateix negatiu, ideal o dissociatiu. De fet, penso que pot ser expansiu i enriquidor a escala col·lectiva. És en aquesta cerca que descobreixo el concepte de jardins digitals.
+
+La primera vegada que en vaig sentir a parlar, va ser pel vídeo de l'Alba Lafarga ["Contra el algoritmo: cultivar jardines digitales en vez de likes"](https://www.youtube.com/watch?v=CXmagtfnabc) on introdueix els jardins digitals com a espais personals i en constant transformació, on cadascú pot expressar i compartir els seus interessos i coneixements de forma oberta, pausada i reflexiva.
+
+Aquesta alternativa construeix les seves bases en la metàfora del jardí. Un jardí és un conjunt de flora no natural, més o menys pensada, i generalment composta de diferents espècies. Tenir un jardí és un procés de constants accions. La idea del jardí digital és plantar diferents idees, assajos, notes, fotos, sense importar massa ni la cronologia ni el completisme. Són espais en transformació i adaptació permanent. Si són públics, conviden al lector/interlocutor a gaudir tranquil·lament, sense linealitats ni expectatives.
+
+Recentment \[*avui*\] he descobert [el seu jardí](https://minishinternet.com/), i quina fantasia i referent! a part de ser increïblement més bonic que aquest, està en procés de desenvolupar un concepte molt interessant de jardí digital que, sens dubte seguiré fervorosament. Potser obro una zona a la web per anar posant altres projectes i jardins a visitar.
+
+### Amb quines eines he creat aquest jardí?
+
+Per acabar aquesta entrada, volia compartir com he creat aquesta web tècnicament, per si algú més es vol animar. La meva principal preocupació era que volia que fos compatible amb certs fitxers d'R, ja que m'agradaria poder anar penjant els meus projectes de dades.
+
+-   **Quarto**: és el sistema de codi obert amb el qual he creat la web. Suporta arxius d'R, Python i altres sense cap problema. De fet, estic creant aquesta pàgina directament des de RStudio. Això si, cal tenir nocions de programació.
+
+-   **Github Pages**: és el servei d'allotjament web que he triat. Gràcies a això també puc tenir activats els comentaris. No hi entenc massa, però està molt estès entre programadors, així que suposo que és dels millors. Contres: és de Microsoft.
