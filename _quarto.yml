@@ -8,7 +8,7 @@ website:
 
   navbar:
     left:
-      - href: novetats/index_novetats.qmd
+      - href: novetats/index.qmd
         text: novetats
 
       - href: posts/00_index_notes.qmd
