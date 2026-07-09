@@ -1,9 +1,13 @@
 ---
-title: Això arrenca!
+title: això arrenca!
+date: 2026-07-09
 ---
 
 Hola a tothom!
 
-Ja he acabat l'estructura de la pàgina web i estic treballant en la publicació de dues notes inicials.
+Ja he acabat l'estructura de la pàgina web i estic treballant en la publicació de dues notes inicials: una sobre psicologia i l'altre sobre pensaments que m'han sorgit després de veure un parell de documentals i llegir-me Pedro Páramo.
+
 Estic força contenta amb el concepte de tornar a *navegar* per internet d'hiperenllaç en hiperenllaç.
-Ja està disponible l'enllaç d'RSS des del qual podràs seguir les novetats d'aquesta pàgina web. Prometo no bombardejar amb notícies :P
+Ja he acativat el canal d'RSS des del qual podràs seguir les novetats d'aquesta pàgina web. He fet aquesta entrada perquè puguis configurar-lo i veure si et funciona bé.
+
+Ens veiem quan hagi pujat les dues notes pendents! Prometo no bombardejar amb notícies :P
