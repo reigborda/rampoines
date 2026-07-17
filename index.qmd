@@ -15,7 +15,7 @@ page-layout: full
 
 :::
 
-![Hiroshige, Horikiri no hanashōbu (1857)](images/Hiroshige_Horikiri_1857.jpg){width=80%}
+![Hiroshige, El jardí de lliris de Horikiri (1857)](images/Hiroshige_Horikiri_1857.jpg){width=80%}
 
 <!-- Presentacio -->
 <div class="welcome-box">

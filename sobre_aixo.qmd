@@ -50,3 +50,5 @@ Per acabar aquesta entrada, volia compartir com he creat aquesta web tècnicamen
 -   **Quarto**: és el sistema de codi obert amb el qual he creat la web. Suporta arxius d'R, Python i altres sense cap problema. De fet, estic creant aquesta pàgina directament des de RStudio. Això si, cal tenir nocions de programació.
 
 -   **Github Pages**: és el servei d'allotjament web que he triat. Gràcies a això també puc tenir activats els comentaris. No hi entenc massa, però està molt estès entre programadors, així que suposo que és dels millors. Contres: és de Microsoft.
+
+-   **RSS**: tecnologia creada als anys 90 per seguir les novetats de les pàgines web. Si et descarregues un lector, et poden arribar les novetats perquè les consultis quan vulguis en una espècie de safata d'entrada. Recomano molt el seu ús perquè et retorna l'agència de seguir què vols consumir mentre navegues per internet.
