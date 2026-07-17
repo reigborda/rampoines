@@ -25,7 +25,7 @@ page-layout: full
 
 <!-- Peu de pàgina -->
 <div class="site-footer">
-### Col·labora!
+## Col·labora!
 
 He creat un canal de [RSS](/novetats/index.xml) per si voleu seguir les novetats.
 

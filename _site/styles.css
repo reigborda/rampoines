@@ -14,7 +14,7 @@
   --border: #FAA968;
   
   --card: #FFF4DF;
-  --footer: #B3BCCB;
+  --shadow: #01204e26;
 }
 /*
 RETRO
@@ -44,6 +44,9 @@ h1,
 h2,
 h3 {
   color: var(--primary);
+}
+
+h3 {
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.4;
@@ -70,7 +73,7 @@ a:hover {color: var(--primary);}
     left: 50%;
     width: 100vw;
     transform: translateX(-50%);
-    border-top: 1px solid var(--footer);
+    border-top: 1px solid var(--shadow);
 }
 /*--------------------------------------------------
   NAVBAR
@@ -195,12 +198,13 @@ a:hover {color: var(--primary);}
     margin:3rem auto;
     padding:14px 18px;
     background: var(--surface);
+    border-top:    2px solid #ffffff;
     border-left:   2px solid #ffffff;
-    border-right:  2px solid #ffffff;
+    border-right:  2px solid #7f7f7f;
     border-bottom: 2px solid #7f7f7f;
     box-shadow:
-      inset 1px 1px #ffffff,
-      inset -1px -1px #505050;
+      inset 1px 1px var(--shadow),
+      inset -1px -1px var(--surface);
 }
 
 .prompt,

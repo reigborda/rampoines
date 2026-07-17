@@ -29,7 +29,7 @@ window.addEventListener("load", () => {
         }
         typing.textContent += lines[lineIndex] + "\n";
         lineIndex++;
-        setTimeout(typeLines, 100);
+        setTimeout(typeLines, 150);
     }
     
     const observer = new IntersectionObserver((entries) => {
