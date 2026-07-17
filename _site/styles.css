@@ -6,13 +6,23 @@
   --bg: #FFF8EA;
   --surface: #FFFDF9;
 
-  --primary: #028391;
-  --accent: #F85525;
+  --primary: #3794B0;
+  --accent: #F35D0D;
   --accent-light: #FAA968;
 
   --text: #01204E;
   --border: #FAA968;
 }
+/*
+RETRO
+--primary: #028391
+--accent: #F85525
+
+AVIVAT
+--accent: #FAA968
+--primary: #3794B0
+*/
+
 
 /*--------------------------------------------------
   BASE
@@ -91,6 +101,12 @@ a:hover {
   background: rgba(255,255,255,0.2);
   color: white !important;
   border-radius: 999px;
+}
+
+.navbar > .container,
+.navbar > .container-fluid {
+  max-width: 1135px;
+  margin: 0 auto;
 }
 
 /*--------------------------------------------------
@@ -177,7 +193,7 @@ a:hover {
   border: 2px solid var(--border);
   border-radius: 8px;
   padding: 1.5rem 1.8rem;
-  margin-bottom: 2rem;
+  margin: 0 auto 2rem auto;
   max-width: 700px;
 }
 

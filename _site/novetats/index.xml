@@ -6,26 +6,28 @@
       version="2.0">
 <channel>
 <title>rampoines</title>
-<link>https://reigborda.github.io/rampoines/novetats/index.html</link>
-<atom:link href="https://reigborda.github.io/rampoines/novetats/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://rampoines.cat/novetats/</link>
+<atom:link href="https://rampoines.cat/novetats/index.xml" rel="self" type="application/rss+xml"/>
 <description>Jardí digital ple de rampoines</description>
-<generator>quarto-1.3.450</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Wed, 08 Jul 2026 22:00:00 GMT</lastBuildDate>
 <item>
   <title>això arrenca!</title>
-  <link>https://reigborda.github.io/rampoines/novetats/01_juliol.html</link>
+  <link>https://rampoines.cat/novetats/01_juliol.html</link>
   <description><![CDATA[ 
+
 
 
 
 <p>Hola a tothom!</p>
 <p>Ja he acabat l’estructura de la pàgina web i estic treballant en la publicació de dues notes inicials: una sobre psicologia i l’altre sobre pensaments que m’han sorgit després de veure un parell de documentals i llegir-me Pedro Páramo.</p>
-<p>Estic força contenta amb el concepte de tornar a <em>navegar</em> per internet d’hiperenllaç en hiperenllaç. Ja està acativat el canal d’RSS des del qual podràs seguir les novetats d’aquesta pàgina web. He fet aquesta entrada perquè puguis configurar-lo i veure si et funciona bé. Ens veiem quan hagi pujat les dues notes pendents. Prometo no bombardejar amb notícies :P</p>
+<p>Estic força contenta amb el concepte de tornar a <em>navegar</em> per internet d’hiperenllaç en hiperenllaç. Ja he acativat el canal d’RSS des del qual podràs seguir les novetats d’aquesta pàgina web. He fet aquesta entrada perquè puguis configurar-lo i veure si et funciona bé.</p>
+<p>Ens veiem quan hagi pujat les dues notes pendents! Prometo no bombardejar amb notícies :P</p>
 
 
 
  ]]></description>
-  <guid>https://reigborda.github.io/rampoines/novetats/01_juliol.html</guid>
+  <guid>https://rampoines.cat/novetats/01_juliol.html</guid>
   <pubDate>Wed, 08 Jul 2026 22:00:00 GMT</pubDate>
 </item>
 </channel>

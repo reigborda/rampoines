@@ -2,7 +2,6 @@
 page-layout: full
 ---
 
-&nbsp;
 
 ::: {.definition-box}
 
@@ -16,21 +15,23 @@ page-layout: full
 
 :::
 
+&nbsp;
+
 Hola!
 
-Soc la Reig i aquest és el meu jardí digital.
+Benvinguts al meu jardí digital.
 
-Un petit espai personal, als marges de la internet corporativa, per reflexionar i intercanviar idees sense cap afany productivista ni completista: per gaudi i prou.
+Un petit espai personal, als marges de la internet corporativa, per reflexionar i <br> intercanviar idees sense cap afany productivista ni completista: per gaudi i prou.
 
-Benvinguts. Sentiu-vos lliures de xafardejar tot el que vulgueu :)
+Sentiu-vos lliures de xafardejar tot el que vulgueu :)
 
 &nbsp;
 
 ---
 
-## Col·labora!
+### Col·labora!
 
-He creat un canal de [RSS](/novetats/index.xml) per si voleu seguir les novetats, tot i que sempre pots passar per aquí i entrar a la pestanya de novetats.
+He creat un canal de [RSS](/novetats/index.xml) per si voleu seguir les novetats.
 
 Si vols, pots comentar les entrades del blog. Per fer-ho, necessites tenir un compte de Github. Si no en tens, crear-lo és gratuït i molt ràpid.
 

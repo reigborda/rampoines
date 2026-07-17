@@ -3,13 +3,13 @@ project:
 
 website:
   title: "rampoines"
-  site-url: https://reigborda.github.io/rampoines
+  site-url: https://rampoines.cat
   description: "Jardí digital ple de rampoines"
 
   navbar:
     left:
       - href: novetats/index.qmd
-        text: novetats
+        text: butlletí
 
       - href: posts/00_index_notes.qmd
         text: notes
