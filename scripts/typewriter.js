@@ -1,5 +1,6 @@
 window.addEventListener("load", () => {
 
+    const welcomeBox = document.querySelector(".welcome-box");
     const commandElement = document.querySelector("#command");
     const typing = document.querySelector("#typing");
 
@@ -15,29 +16,29 @@ window.addEventListener("load", () => {
     let lineIndex = 0;
 
 
+    // 1. Escriure la comanda
     function typeCommand() {
 
-    commandElement.classList.add("typing");
+        commandElement.classList.add("typing");
 
-    if (commandIndex >= command.length) {
-        commandElement.classList.remove("typing");
-        setTimeout(typeLines, 1500);
-        return;
+        if (commandIndex >= command.length) {
+            commandElement.classList.remove("typing");
+            setTimeout(typeLines, 1500);
+            return;
+        }
+
+        commandElement.textContent = command.slice(0, commandIndex);
+
+        commandIndex++;
+
+        setTimeout(typeCommand, 40);
     }
 
-    commandElement.textContent = command.slice(0, commandIndex);
 
-    commandIndex++;
-
-    setTimeout(typeCommand, 40);
-}
-
-
-    // 2. Escriure el contingut del fitxer
+    // 2. Escriure el contingut
     function typeLines() {
 
         if (lineIndex >= lines.length) {
-            typing.classList.add("finished");
             return;
         }
 
@@ -49,6 +50,20 @@ window.addEventListener("load", () => {
     }
 
 
-    setTimeout(typeCommand, 700);
+    // 3. Començar només quan la caixa sigui visible
+    const observer = new IntersectionObserver((entries) => {
+
+        if (entries[0].isIntersecting) {
+
+            setTimeout(typeCommand, 700);
+
+            observer.disconnect(); // només una vegada
+        }
+
+    }, {
+        threshold: 0.4
+    });
+
+    observer.observe(welcomeBox);
 
 });
