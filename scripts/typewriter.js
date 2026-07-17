@@ -2,11 +2,11 @@ window.addEventListener("load", () => {
     const welcomeBox = document.querySelector(".welcome-box");
     const commandElement = document.querySelector("#command");
     const typing = document.querySelector("#typing");
-    const command = "./benvinguda.sh ";
+    const command = "cat benvinguda.txt ";
     const lines = [
-        "\n > Hola a tothom! Benvinguts al meu jardí digital.",
-        "> Un petit espai personal, als marges de la internet corporativa, per reflexionar i intercanviar idees sense cap afany productivista ni completista: per gaudi i prou.",
-        "> Sentiu-vos lliures de xafardejar tot el que vulgueu :) "
+        "\n Hola a tothom! Benvinguts al meu jardí digital.",
+        "Un petit espai personal, als marges de la internet corporativa, per reflexionar i intercanviar idees sense cap afany productivista ni completista: per gaudi i prou.",
+        "Sentiu-vos lliures de xafardejar tot el que vulgueu :) "
     ];
     let commandIndex = 0;
     let lineIndex = 0;
