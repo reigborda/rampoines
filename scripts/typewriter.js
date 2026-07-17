@@ -12,16 +12,18 @@ window.addEventListener("load", () => {
     let lineIndex = 0;
 
     function typeCommand() {
-        commandElement.classList.add("typing");
-        if (commandIndex >= command.length) {
-            commandElement.classList.remove("typing");
-            setTimeout(typeLines, 1500);
-            return;
-        }
-        commandElement.textContent = command.slice(0, commandIndex);
-        commandIndex++;
-        setTimeout(typeCommand, 40);
+      commandElement.classList.add("typing");
+      if (commandIndex >= command.length) {
+        setTimeout(() => {
+          commandElement.classList.remove("typing");
+          typeLines();
+        }, 2000);
+        return;
     }
+    commandElement.textContent = command.slice(0, commandIndex);
+    commandIndex++;
+    setTimeout(typeCommand, 40);
+}
 
     function typeLines() {
         if (lineIndex >= lines.length) {
@@ -29,7 +31,7 @@ window.addEventListener("load", () => {
         }
         typing.textContent += lines[lineIndex] + "\n";
         lineIndex++;
-        setTimeout(typeLines, 150);
+        setTimeout(typeLines, 100);
     }
     
     const observer = new IntersectionObserver((entries) => {
@@ -39,4 +41,5 @@ window.addEventListener("load", () => {
         }
     }, {threshold: 1});
     observer.observe(welcomeBox);
+    
 });
