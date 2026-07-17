@@ -222,7 +222,15 @@ a:hover {color: var(--primary);}
     animation: blink 1s steps(1) infinite;
 }
 
-.finished::after{content:"";}
+@media (max-width: 768px) {
+
+    .prompt,
+    #command,
+    #typing {
+        font-size: 0.9rem;
+    }
+
+}
 
 @keyframes blink{50%{opacity:0;}}
 
