@@ -8,13 +8,7 @@ page-layout: full
 
 </button>
 
-Projecte sobre anàlisi del risc d'incendis en procés
-:::
+- Projecte sobre anàlisi del risc d'incendis en procés
 
-::: {.alert .alert-dismissible .alert-danger}
-<button type="button" class="btn-close" data-bs-dismiss="alert">
-
-</button>
-
-Projecte sobre la climatització a les aules pendent de rebre les dades
+- Projecte sobre la climatització a les aules pendent de rebre les dades
 :::

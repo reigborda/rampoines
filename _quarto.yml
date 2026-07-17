@@ -4,8 +4,7 @@ project:
 website:
   title: "rampoines"
   site-url: https://rampoines.cat
-  description: "Jardí digital ple de rampoines"
-
+  description: "Jardí digital en permanent construcció"
   navbar:
     left:
       - href: novetats/index.qmd
@@ -25,7 +24,11 @@ format:
     theme: minty
     anchor-sections: false
     math: false
-    css: styles.css
+    css:
+      - styles.css
+    include-in-header:
+      text: |
+        <script src="scripts/typewriter.js" defer></script>
 
 lang: ca
 

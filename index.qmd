@@ -15,25 +15,22 @@ page-layout: full
 
 :::
 
-&nbsp;
+<!-- Presentacio -->
+<div class="welcome-box">
+  <span class="prompt">guest@rampoines:~$ </span><span id="command"></span><br>
+  <span id="typing"></span>
+</div>
 
-Hola!
+![Hiroshige, Horikiri no hanashōbu (1857)](images/Hiroshige_Horikiri_1857.jpg){width=70%}
 
-Benvinguts al meu jardí digital.
 
-Un petit espai personal, als marges de la internet corporativa, per reflexionar i <br> intercanviar idees sense cap afany productivista ni completista: per gaudi i prou.
 
-Sentiu-vos lliures de xafardejar tot el que vulgueu :)
-
-&nbsp;
-
----
-
+<!-- Peu de pàgina -->
+<div class="site-footer">
 ### Col·labora!
 
 He creat un canal de [RSS](/novetats/index.xml) per si voleu seguir les novetats.
 
-Si vols, pots comentar les entrades del blog. Per fer-ho, necessites tenir un compte de Github. Si no en tens, crear-lo és gratuït i molt ràpid.
-
-
+Si vols, pots comentar les entrades del blog. Per fer-ho, necessites tenir un compte de GitHub. Si no en tens, crear-lo és gratuït i molt ràpid.
+</div>
 
